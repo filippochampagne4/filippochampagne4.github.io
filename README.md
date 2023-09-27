@@ -1,3 +1,2 @@
-# filippochampagne4.github.io
-diario della classe
-test
+# sito_scuola
+Sito vuoto, da riempire con gli appunti presi a lezione.
