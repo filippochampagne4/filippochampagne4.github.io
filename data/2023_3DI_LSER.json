@@ -7,12 +7,22 @@
       "text_made_by": "Paolino Paperino",
       "questions": "1_questions.json"
     },
+
     {
-      "date": "15/09/2022",
+      "date": "12/09/2023",
       "title": "Lezione 2",
       "text": "2.html",
       "text_made_by": "Paolino Paperino",
       "questions": "2_questions.json"
+    },
+
+    {
+      "date": "12/09/2023",
+      "title": "Lezione 4",
+      "text": "4.html",
+      "text_made_by": "Paolino Paperino",
+      "questions": "4_questions.json"
     }
+   
   ]
 }  
